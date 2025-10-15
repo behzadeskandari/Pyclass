@@ -52,4 +52,4 @@ CamelCase = "Test"
 #Case Sensitive 
 camelCase = "test2"
 # None = "test"
-
+>>>>>>>>> Temporary merge branch 2
