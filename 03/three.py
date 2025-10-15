@@ -83,3 +83,9 @@ sec_digit = first_number[1]
 
 
 # python   then help() then topics then The DataType or KeyWord
+a= 1
+b = 1
+
+id(a)
+#comparing address Id of the variable
+id(b)
