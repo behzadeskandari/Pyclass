@@ -15,4 +15,7 @@
 # bin
 # oct
 # hex
- 
+Text = ~2 #negation #complimant  
+#<<    >>
+
+print(Text)
