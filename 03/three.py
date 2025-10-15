@@ -83,3 +83,23 @@ sec_digit = first_number[1]
 
 
 # python   then help() then topics then The DataType or KeyWord
+a= 1
+b = 1
+
+id(a)
+#comparing address Id of the variable
+id(b)
+
+
+#data type
+# NONE 
+# Numeric (int , float , complex -> imaginary Number , bool)
+# List  ["string","string","behzad"] ,[1,2,3]
+# Tuple (35,67,87,98,35)
+# Set   {35,67,87,98,35}
+# String  str("test") a = "test"
+# Range list(range(10)) , list(range(10,100,2))
+# Dictionary 
+# d = {"1": 'behzad',"2": "hasan","3":"rajab"}
+# j = {"A": 'behzad',"B": "hasan","C":"rajab"}
+# j = {4: 'behzad',3: "hasan",1:"rajab"}
