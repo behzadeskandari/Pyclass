@@ -36,3 +36,16 @@ indexCharacter2 = camelCase[2]
 
 #\\n
 
+a = 1
+b= 2
+
+number3 = a + b
+number4 = a < b
+number5 = a == b
+number6 = a > b
+number7 = a != b
+
+
+isTrue = True
+if(isTrue):
+    isTrue = False
