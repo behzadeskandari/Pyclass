@@ -102,4 +102,6 @@ id(b)
 # Dictionary 
 # d = {"1": 'behzad',"2": "hasan","3":"rajab"}
 # j = {"A": 'behzad',"B": "hasan","C":"rajab"}
-# j = {4: 'behzad',3: "hasan",1:"rajab"}
+j = {4: 'behzad',3: "hasan",1:"rajab"}
+
+index4 = j.get(4)
